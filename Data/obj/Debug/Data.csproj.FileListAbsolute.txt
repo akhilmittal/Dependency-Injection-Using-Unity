@@ -1,0 +1,5 @@
+D:\Articles\DI\DI\Data\bin\Debug\Data.dll
+D:\Articles\DI\DI\Data\bin\Debug\Data.pdb
+D:\Articles\DI\DI\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+D:\Articles\DI\DI\Data\obj\Debug\Data.dll
+D:\Articles\DI\DI\Data\obj\Debug\Data.pdb
